@@ -1,0 +1,18 @@
+// this is a comment
+
+while y>8 do
+x := 1 + 4;
+y := 3 * 2;
+    while 2 = r do
+        x := 1;
+        y := 3;
+    end;
+
+    if grx = ngr then
+        n := 8;
+        u := 45 + 32;
+    else
+        x := 1;
+        y := 3;
+    end;
+end;

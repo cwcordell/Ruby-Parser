@@ -1,0 +1,10 @@
+pr_ev := 0
+curr := +1;
+iter := -0;
+/ not a comment
+
+while N-- do
+    tmp := prev (+ curr);
+    prev = curr ;
+    curr := ;
+end

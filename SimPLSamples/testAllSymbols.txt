@@ -1,0 +1,2 @@
+// should print out sequential symbols 0 through 26
+:= while do if then else end not and or true false <= >= = < > + - * / ; 784 x1 ( ) //comment should not show
